@@ -3,7 +3,7 @@ bar chart-task 1
 ---
 
 **Task 01** – Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as age or gender distribution in a population.
-**Dataset:** Skull Craft Technology Sample Data
+**Dataset:** Skill Craft Technology Sample Data
 
 ---
 
